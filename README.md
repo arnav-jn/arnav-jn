@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Jain</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <img align="right" alt="coding" width="400" sre="tech.gif">
-- 🔭 I’m currently working on [Fashionista](https://github.com/arnav-jn/Fashionista)
+- 🔭 I’m currently working on [Fashionista]
 
 - 🌱 I’m currently learning **Cloud Computing and Web3**
 
